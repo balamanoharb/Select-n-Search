@@ -1,0 +1,8 @@
+#sortable { list-style-type: none; margin: 0; padding: 0; }
+#sortable li { margin: 0 3px 3px 3px; padding: 0.4em; padding-left: 0.5em;text-align: left; font-size: 1em; height: 18px; }
+#sortable span { position: absolute;padding-left: 0.4em; }
+
+body {
+width: 200px;
+overflow-x: hidden;
+}
